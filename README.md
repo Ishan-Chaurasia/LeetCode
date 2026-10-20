@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0507-perfect-number](https://github.com/Ishan-Chaurasia/LeetCode/tree/master/0507-perfect-number) |
 | [2614-prime-in-diagonal](https://github.com/Ishan-Chaurasia/LeetCode/tree/master/2614-prime-in-diagonal) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Ishan-Chaurasia/LeetCode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Greedy

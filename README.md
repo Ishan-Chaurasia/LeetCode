@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Ishan-Chaurasia/LeetCode/tree/master/0204-count-primes) |
+| [0263-ugly-number](https://github.com/Ishan-Chaurasia/LeetCode/tree/master/0263-ugly-number) |
 | [0507-perfect-number](https://github.com/Ishan-Chaurasia/LeetCode/tree/master/0507-perfect-number) |
 | [0650-2-keys-keyboard](https://github.com/Ishan-Chaurasia/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Ishan-Chaurasia/LeetCode/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |

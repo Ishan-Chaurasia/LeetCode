@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Ishan-Chaurasia/LeetCode/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ishan-Chaurasia/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ishan-Chaurasia/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ishan-Chaurasia/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Ishan-Chaurasia/LeetCode/tree/master/0204-count-primes) |
 | [0507-perfect-number](https://github.com/Ishan-Chaurasia/LeetCode/tree/master/0507-perfect-number) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Ishan-Chaurasia/LeetCode/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2614-prime-in-diagonal](https://github.com/Ishan-Chaurasia/LeetCode/tree/master/2614-prime-in-diagonal) |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Ishan-Chaurasia/LeetCode/tree/master/0204-count-primes) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Ishan-Chaurasia/LeetCode/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2614-prime-in-diagonal](https://github.com/Ishan-Chaurasia/LeetCode/tree/master/2614-prime-in-diagonal) |
 ## Simulation
@@ -68,13 +71,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Primality Test
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Ishan-Chaurasia/LeetCode/tree/master/0204-count-primes) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Ishan-Chaurasia/LeetCode/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 ## Sieve Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Ishan-Chaurasia/LeetCode/tree/master/0204-count-primes) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Ishan-Chaurasia/LeetCode/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 ## Prime Number Sieve
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Ishan-Chaurasia/LeetCode/tree/master/0204-count-primes) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Ishan-Chaurasia/LeetCode/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Ishan-Chaurasia/LeetCode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->

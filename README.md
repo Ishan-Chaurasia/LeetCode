@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/Ishan-Chaurasia/LeetCode/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ishan-Chaurasia/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/Ishan-Chaurasia/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ishan-Chaurasia/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ishan-Chaurasia/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Ishan-Chaurasia/LeetCode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Ishan-Chaurasia/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/Ishan-Chaurasia/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ishan-Chaurasia/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ishan-Chaurasia/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Prefix Sum
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/Ishan-Chaurasia/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Ishan-Chaurasia/LeetCode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Ishan-Chaurasia/LeetCode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Sorting

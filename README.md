@@ -109,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Ishan-Chaurasia/LeetCode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0476-number-complement](https://github.com/Ishan-Chaurasia/LeetCode/tree/master/0476-number-complement) |
 <!---LeetCode Topics End-->

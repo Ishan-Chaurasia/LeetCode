@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Ishan-Chaurasia/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ishan-Chaurasia/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ishan-Chaurasia/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Ishan-Chaurasia/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Ishan-Chaurasia/LeetCode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2614-prime-in-diagonal](https://github.com/Ishan-Chaurasia/LeetCode/tree/master/2614-prime-in-diagonal) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Ishan-Chaurasia/LeetCode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Ishan-Chaurasia/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ishan-Chaurasia/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Ishan-Chaurasia/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Sliding Window
 |  |
 | ------- |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Ishan-Chaurasia/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Ishan-Chaurasia/LeetCode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Matrix
 |  |

@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/Ishan-Chaurasia/LeetCode/tree/master/0072-edit-distance) |
 | [0650-2-keys-keyboard](https://github.com/Ishan-Chaurasia/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ishan-Chaurasia/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Hash Table
@@ -121,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Ishan-Chaurasia/LeetCode/tree/master/0027-remove-element) |
+## String
+|  |
+| ------- |
+| [0072-edit-distance](https://github.com/Ishan-Chaurasia/LeetCode/tree/master/0072-edit-distance) |
 <!---LeetCode Topics End-->

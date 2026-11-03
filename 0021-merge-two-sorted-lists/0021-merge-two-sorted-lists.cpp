@@ -10,31 +10,23 @@
  */
 class Solution {
 public:
-    ListNode* mergeTwoLists(ListNode* list1, ListNode* list2) {
-        ListNode* temp1 = list1;
-        ListNode* temp2 = list2;
+    ListNode* mergeTwoLists(ListNode* a, ListNode* b) {
         ListNode* c = new ListNode(100);
         ListNode* tempC = c;
-        while(temp1!=NULL && temp2!=NULL) {
-            if(temp1->val <= temp2->val) {
-                ListNode* t = new ListNode(temp1->val);
-                tempC->next = t;
-                tempC = t;
-                temp1 = temp1->next;
+        while(a!=nullptr && b!=nullptr){
+            if(a->val <= b->val) {
+            tempC->next = a;
+            a = a->next;
+            tempC = tempC->next;
             }
             else {
-                ListNode* t = new ListNode(temp2->val);
-                tempC->next = t;
-                tempC = t;
-                temp2 = temp2->next;
+                tempC->next = b;
+                b = b->next;
+                tempC = tempC->next;
             }
         }
-        if(temp1==nullptr) {
-            tempC->next = temp2;
-        }
-        else {
-            tempC->next = temp1;
-        }
+        if(a == nullptr) tempC->next = b;
+        else tempC->next = a;
         return c->next;
     }
 };

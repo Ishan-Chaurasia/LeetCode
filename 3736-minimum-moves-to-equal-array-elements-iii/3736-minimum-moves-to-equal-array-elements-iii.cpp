@@ -8,8 +8,7 @@ public:
         }
         for(int i=0; i<nums.size(); i++) {
            if(nums[i] < mx){
-            int diff = mx - nums[i];
-            moves += diff;
+            moves += mx - nums[i];
            }
         }
         return moves;

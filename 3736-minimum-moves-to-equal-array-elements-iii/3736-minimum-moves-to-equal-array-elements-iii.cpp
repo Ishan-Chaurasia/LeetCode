@@ -3,14 +3,14 @@ public:
     int minMoves(vector<int>& nums) {
         int moves = 0;
         int mx = INT_MIN;
+        int sum = 0;
         for(int ele : nums) {
-            if(ele > mx) mx = max(mx,ele);
+            if(ele > mx) {
+                mx = max(mx,ele);
+            }
+            sum += ele;
         }
-        for(int i=0; i<nums.size(); i++) {
-           if(nums[i] < mx){
-            moves += mx - nums[i];
-           }
-        }
-        return moves;
+        mx = mx*nums.size();
+        return mx-sum;
     }
 };

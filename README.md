@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Ishan-Chaurasia/LeetCode/tree/master/0148-sort-list) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Ishan-Chaurasia/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Ishan-Chaurasia/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Ishan-Chaurasia/LeetCode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/Ishan-Chaurasia/LeetCode/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/Ishan-Chaurasia/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Ishan-Chaurasia/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Ishan-Chaurasia/LeetCode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Ishan-Chaurasia/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0876-middle-of-the-linked-list](https://github.com/Ishan-Chaurasia/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Ishan-Chaurasia/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Ishan-Chaurasia/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/Ishan-Chaurasia/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Ishan-Chaurasia/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Ishan-Chaurasia/LeetCode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Ishan-Chaurasia/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Ishan-Chaurasia/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Ishan-Chaurasia/LeetCode/tree/master/0876-middle-of-the-linked-list) |
@@ -167,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Ishan-Chaurasia/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/Ishan-Chaurasia/LeetCode/tree/master/0148-sort-list) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -175,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Ishan-Chaurasia/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/Ishan-Chaurasia/LeetCode/tree/master/0148-sort-list) |
 ## Tournament Sort
 |  |
 | ------- |

@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Ishan-Chaurasia/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Ishan-Chaurasia/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ishan-Chaurasia/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/Ishan-Chaurasia/LeetCode/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Ishan-Chaurasia/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Ishan-Chaurasia/LeetCode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2614-prime-in-diagonal](https://github.com/Ishan-Chaurasia/LeetCode/tree/master/2614-prime-in-diagonal) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0143-reorder-list](https://github.com/Ishan-Chaurasia/LeetCode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Ishan-Chaurasia/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/Ishan-Chaurasia/LeetCode/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -214,4 +216,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Ishan-Chaurasia/LeetCode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/Ishan-Chaurasia/LeetCode/tree/master/1944-number-of-visible-people-in-a-queue) |
 <!---LeetCode Topics End-->

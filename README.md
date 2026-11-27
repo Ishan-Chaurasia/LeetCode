@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2614-prime-in-diagonal](https://github.com/Ishan-Chaurasia/LeetCode/tree/master/2614-prime-in-diagonal) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Ishan-Chaurasia/LeetCode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Ishan-Chaurasia/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Ishan-Chaurasia/LeetCode/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -52,12 +53,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Ishan-Chaurasia/LeetCode/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Ishan-Chaurasia/LeetCode/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0072-edit-distance](https://github.com/Ishan-Chaurasia/LeetCode/tree/master/0072-edit-distance) |
 | [0650-2-keys-keyboard](https://github.com/Ishan-Chaurasia/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ishan-Chaurasia/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Ishan-Chaurasia/LeetCode/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Hash Table
 |  |
 | ------- |
